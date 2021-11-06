@@ -32,7 +32,6 @@ export default {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        max-height: 100%;
         color: #2d2c30;
         background-color: #e5eaee;
         border-radius: 10px;
@@ -40,7 +39,10 @@ export default {
         margin-top: 15px;
     }
     .postText {
-        max-height: 100%;
+        display: block;
         margin-right: 30px;
+    }
+    .postText div {
+        display: inline-block;
     }
 </style>
