@@ -1,3 +1,3 @@
 # TaskInernshipVue3
 
-Tsk for Tir Script
+Task for Tir Script
